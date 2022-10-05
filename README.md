@@ -23,6 +23,8 @@ to facilitate development and validation of prediction tool for primary strokes.
 require advanced computational resources that will utilize the AHA’s Precision Medicine Platform (PMP), built
 based on Amazon Web Services. 
 
+[[Manual Harmonization of Cohorts]](https://github.com/duke-harmonization/manual_harmonization): Process for converting dbGaP phenotype data (Framingham, MESA and ARIC) from raw to final SAS analysis datasets. 
+
 ## Publications
 1. [[Latent ODE]](https://github.com/duke-harmonization/structured_latent_ODEs) Chapfuwa, P., Rose, S., Carin, L., Meeds, E. and Henao, R. Capturing Actionable Dynamics with Structured Latent Ordinary Differential Equations in Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence (2022).
 2. [[MCM]](https://github.com/duke-harmonization/dnmc) Engelhard, M. and Henao, R. Disentangling Whether from When in a Neural Mixture Cure Model for Failure Time
