@@ -23,18 +23,18 @@ to facilitate development and validation of prediction tool for primary strokes.
 require advanced computational resources that will utilize the AHA’s Precision Medicine Platform (PMP), built
 based on Amazon Web Services. 
 
+[[Manual Harmonization of Cohorts]](https://github.com/duke-harmonization/manual_harmonization): Process for converting dbGaP phenotype data (Framingham, MESA and ARIC) from raw to final SAS analysis datasets.
+
+[[PMP Website]](https://precision.heart.org/duke-ninds): Stroke Risk Prediction Using a Harmonized Dataset of Framingham, MESA, ARIC, & REGARDS (Pilot).
+
 ## Publications
-1. [[Latent ODE]](https://github.com/duke-harmonization/structured_latent_ODEs) Chapfuwa, P., Rose, S., Carin, L., Meeds, E. and Henao, R. Capturing Actionable Dynamics with Structured Latent Ordinary Differential Equations in Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence (2022).
-2. [[MCM]](https://github.com/duke-harmonization/dnmc) Engelhard, M. and Henao, R. Disentangling Whether from When in a Neural Mixture Cure Model for Failure Time
-Data in Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (2022).
-3. [[GIL]](https://github.com/duke-harmonization/gradient-importance-learning) Gao, Q., Wang, D., Amason, J. D., Yuan, S., Tao, C., Henao, R., Hadziahmetovic, M., Carin, L. & Pajic, M. Gradient Importance Learning for Incomplete Observations in The 10th International Conference on Learning
-Representations (2022
-4. [[SC]](https://github.com/duke-harmonization/counterfactual_survival_analysis) Chapfuwa, P., Assaad, S., Zeng, S., Pencina, M., Carin, L. & Henao, R. Enabling Counterfactual Survival Analysis with Balanced Representation in Proceedings of the ACM Conference on Health, Inference, and Learning
-(2021).
-5. [[ECRT]](https://github.com/duke-harmonization/ECRT) Chen, J., Xiu, Z., Goldstein, B., Henao, R., Carin, L. & Tao, C. Supercharging Imbalanced Data Learning With
-Causal Representation Transfer in Advances in Neural Information Processing Systems 35 (2021).
-6. [[VIE]](https://github.com/duke-harmonization/VIE) Xiu, Z., Tao, C., Gao, M., Davis, C., Goldstein, B. & Henao, R. Variational Disentanglement for Rare Event
-Modeling in Proceedings of the 35th AAAI Conference on Artificial Intelligence (2021).
+1. [[Predictive Accuracy]](https://github.com/duke-harmonization/stroke-risk-prediction-models) Hong C., Pencina M.J., Wojdyla D.M., Hall J.L., Judd S.E., Cary M., Engelhard M.M., Berchuck S., Xian Y., D’Agostino R., Howard G., Kissela B., and Henao R. Predictive Accuracy of Stroke Risk Prediction Models Across Black and White Race, Sex, and Age Groups. *JAMA*. 2023 Jan 24;329(4):306-17.
+2. [[Latent ODE]](https://github.com/duke-harmonization/structured_latent_ODEs) Chapfuwa, P., Rose, S., Carin, L., Meeds, E. and Henao, R. Capturing Actionable Dynamics with Structured Latent Ordinary Differential Equations in Proceedings of *The 38th Conference on Uncertainty in Artificial Intelligence* (2022).
+3. [[MCM]](https://github.com/duke-harmonization/dnmc) Engelhard, M. and Henao, R. Disentangling Whether from When in a Neural Mixture Cure Model for Failure Time Data in Proceedings of *The 25th International Conference on Artificial Intelligence and Statistics* (2022).
+4. [[GIL]](https://github.com/duke-harmonization/gradient-importance-learning) Gao, Q., Wang, D., Amason, J. D., Yuan, S., Tao, C., Henao, R., Hadziahmetovic, M., Carin, L. and Pajic, M. Gradient Importance Learning for Incomplete Observations in *The 10th International Conference on Learning Representations* (2022).
+5. [[SC]](https://github.com/duke-harmonization/counterfactual_survival_analysis) Chapfuwa, P., Assaad, S., Zeng, S., Pencina, M., Carin, L. and Henao, R. Enabling Counterfactual Survival Analysis with Balanced Representation in *Proceedings of the ACM Conference on Health, Inference, and Learning* (2021).
+6. [[ECRT]](https://github.com/duke-harmonization/ECRT) Chen, J., Xiu, Z., Goldstein, B., Henao, R., Carin, L. and Tao, C. Supercharging Imbalanced Data Learning With Causal Representation Transfer in *Advances in Neural Information Processing Systems 35* (2021).
+7. [[VIE]](https://github.com/duke-harmonization/VIE) Xiu, Z., Tao, C., Gao, M., Davis, C., Goldstein, B. and Henao, R. Variational Disentanglement for Rare Event Modeling in *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (2021).
 
 ## Support
 
