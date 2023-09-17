@@ -28,6 +28,9 @@ based on Amazon Web Services.
 [[PMP Website]](https://precision.heart.org/duke-ninds): Stroke Risk Prediction Using a Harmonized Dataset of Framingham, MESA, ARIC, & REGARDS (Pilot).
 
 ## Publications
+1 . [[SGHP]](https://github.com/rhenaog/sghp) Isik, Y. A., Davis, C., Chapfuwa, P., Henao, R., Hawkes Process with Flexible Triggering Kernels in Proceedings of the *Machine Learning for Healthcare Conference* (2023).
+2 . [[Evaluation]](https://github.com/duke-harmonization/CensoredMAE) Qi, S.-a., Kumar, N., Farrokh, M., Sun, W., Kuan, L.-H., Ranganath, R., Henao, R., Greiner, R., An Effective Meaningful Way to Evaluate Survival Models in Proceedings of *The 40th International Conference on Machine
+Learning* (2023).
 1. [[Predictive Accuracy]](https://github.com/duke-harmonization/stroke-risk-prediction-models) Hong C., Pencina M.J., Wojdyla D.M., Hall J.L., Judd S.E., Cary M., Engelhard M.M., Berchuck S., Xian Y., D’Agostino R., Howard G., Kissela B., and Henao R. Predictive Accuracy of Stroke Risk Prediction Models Across Black and White Race, Sex, and Age Groups. *JAMA*. 2023 Jan 24;329(4):306-17.
 2. [[Latent ODE]](https://github.com/duke-harmonization/structured_latent_ODEs) Chapfuwa, P., Rose, S., Carin, L., Meeds, E. and Henao, R. Capturing Actionable Dynamics with Structured Latent Ordinary Differential Equations in Proceedings of *The 38th Conference on Uncertainty in Artificial Intelligence* (2022).
 3. [[MCM]](https://github.com/duke-harmonization/dnmc) Engelhard, M. and Henao, R. Disentangling Whether from When in a Neural Mixture Cure Model for Failure Time Data in Proceedings of *The 25th International Conference on Artificial Intelligence and Statistics* (2022).
