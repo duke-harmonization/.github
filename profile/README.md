@@ -1,5 +1,6 @@
 # Data Harmonization and Stroke Risk Prediction
 
+<div align='justify'>
 Stroke is the fifth most prevalent cause of death in the U.S. afflicting nearly 800,000 per year. About three
 quarters of strokes are first events, underscoring the importance of primary prevention. Designing optimal
 preventive strategies requires identification of risk factors and estimation of the risk of stroke. The most recent
@@ -22,13 +23,14 @@ as part of our currently funded NIH BD2K award to Duke. We will apply these mode
 to facilitate development and validation of prediction tool for primary strokes. These complex analyses will
 require advanced computational resources that will utilize the AHA’s Precision Medicine Platform (PMP), built
 based on Amazon Web Services. 
+</div>
 
 [[Manual Harmonization of Cohorts]](https://github.com/duke-harmonization/manual_harmonization): Process for converting dbGaP phenotype data (Framingham, MESA and ARIC) from raw to final SAS analysis datasets.
 
 [[PMP Website]](https://precision.heart.org/duke-ninds): Stroke Risk Prediction Using a Harmonized Dataset of Framingham, MESA, ARIC, & REGARDS (Pilot).
 
 ## Publications
-1. [[Trans_Balance]](https://github.com/duke-harmonization/Transbalance) Hong, C., Liu, M., Wojdyla, D. M., Hickey, J, Pencina, M., Henao, R., Trans-Balance: Reducing Demographic Disparity for Prediction
+1. [[Trans-Balance]](https://github.com/duke-harmonization/Transbalance) Hong, C., Liu, M., Wojdyla, D. M., Hickey, J, Pencina, M., Henao, R., Trans-Balance: Reducing Demographic Disparity for Prediction
 Models in the Presence of Class Imbalance. (Under Review, 2023).
 2. [[SGHP]](https://github.com/rhenaog/sghp) Isik, Y. A., Davis, C., Chapfuwa, P., Henao, R., Hawkes Process with Flexible Triggering Kernels in Proceedings of the *Machine Learning for Healthcare Conference* (2023).
 3. [[Evaluation]](https://github.com/duke-harmonization/CensoredMAE) Qi, S.-a., Kumar, N., Farrokh, M., Sun, W., Kuan, L.-H., Ranganath, R., Henao, R., Greiner, R., An Effective Meaningful Way to Evaluate Survival Models in Proceedings of *The 40th International Conference on Machine
