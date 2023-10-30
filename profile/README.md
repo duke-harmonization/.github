@@ -31,7 +31,7 @@ based on Amazon Web Services.
 
 ## Publications
 1. [[Trans-Balance]](https://github.com/duke-harmonization/Transbalance) Hong, C., Liu, M., Wojdyla, D. M., Hickey, J, Pencina, M., Henao, R., Trans-Balance: Reducing Demographic Disparity for Prediction
-Models in the Presence of Class Imbalance. (Under Review, 2023).
+Models in the Presence of Class Imbalance. (Accepted, 2023).
 2. [[SGHP]](https://github.com/rhenaog/sghp) Isik, Y. A., Davis, C., Chapfuwa, P., Henao, R., Hawkes Process with Flexible Triggering Kernels in Proceedings of the *Machine Learning for Healthcare Conference* (2023).
 3. [[Evaluation]](https://github.com/duke-harmonization/CensoredMAE) Qi, S.-a., Kumar, N., Farrokh, M., Sun, W., Kuan, L.-H., Ranganath, R., Henao, R., Greiner, R., An Effective Meaningful Way to Evaluate Survival Models in Proceedings of *The 40th International Conference on Machine
 Learning* (2023).
