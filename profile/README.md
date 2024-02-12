@@ -25,7 +25,7 @@ require advanced computational resources that will utilize the AHA’s Precision
 based on Amazon Web Services. 
 </div>
 
-[[Manual Harmonization of Cohorts]](https://github.com/duke-harmonization/manual_harmonization): Process for converting dbGaP phenotype data (Framingham, MESA and ARIC) from raw to final SAS analysis datasets.
+[[Manual Harmonization of Cohorts from dbGaP]](https://github.com/duke-harmonization/manual_harmonization) and [[Manual Harmonization of Cohorts from BioLINCC]](https://github.com/duke-harmonization/manual_harmonization_biolincc): Process for converting dbGaP or BioLINCC phenotype data (Framingham, MESA and ARIC) from raw to final SAS analysis datasets.
 
 [[PMP Website]](https://precision.heart.org/duke-ninds): Stroke Risk Prediction Using a Harmonized Dataset of Framingham, MESA, ARIC, & REGARDS (Pilot).
 
