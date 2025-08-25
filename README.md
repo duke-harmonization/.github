@@ -28,7 +28,7 @@ Manual Harmonization of Cohorts [(dbGaP)](https://github.com/duke-harmonization/
 [[PMP Website]](https://precision.heart.org/duke-ninds): Stroke Risk Prediction Using a Harmonized Dataset of Framingham, MESA, ARIC, & REGARDS (Pilot).
 
 ## Publications
-1. [ALD]](https://github.com/duke-harmonization/ALD) Sheng D., Henao R. Learning Survival Distributions with the Asymmetric Laplace Distribution. *In Forty-second International Conference on Machine Learning (ICML)*. 2025.
+1. [[ALD]](https://github.com/duke-harmonization/ALD) Sheng D., Henao R. Learning Survival Distributions with the Asymmetric Laplace Distribution. *In Forty-second International Conference on Machine Learning (ICML)*. 2025.
 2. [[xCI]](https://github.com/duke-harmonization/equitable-stroke-risk-prediction) Engelhard M., Wojdyla D., Wang H., Pencina M., Henao R. Exploring trade-offs in equitable stroke risk prediction with parity-constrained and race-free models. *Artificial Intelligence in Medicine*. 2025 Apr 10:103130.
 3. [[SONAR]](https://medinform.jmir.org/2025/1/e54133/authors) Yang D., Zhou D., Cai S., Gan Z., Pencina M., Avillach P., Cai T., Hong C. Robust Automated Harmonization of Heterogeneous Data Through Ensemble Machine Learning: Algorithm Development and Validation Study. *JMIR Med Inform* 2025 Jan 22; 13:e54133.
 4. [[ADEPT]](https://github.com/duke-harmonization/ADEPT) Hickey J., Henao R., Wojdyla D., Pencina M., Engelhard M. Adaptive Discretization for Event PredicTion (ADEPT) in *Proceedings of the International Conference on Artificial Intelligence and Statistics* (2024).
