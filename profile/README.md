@@ -1,6 +1,5 @@
 # Data Harmonization and Stroke Risk Prediction
 
-<div align='justify'>
 Stroke is the fifth most prevalent cause of death in the U.S. afflicting nearly 800,000 per year. About three
 quarters of strokes are first events, underscoring the importance of primary prevention. Designing optimal
 preventive strategies requires identification of risk factors and estimation of the risk of stroke. The most recent
@@ -23,27 +22,30 @@ as part of our currently funded NIH BD2K award to Duke. We will apply these mode
 to facilitate development and validation of prediction tool for primary strokes. These complex analyses will
 require advanced computational resources that will utilize the AHA’s Precision Medicine Platform (PMP), built
 based on Amazon Web Services. 
-</div>
 
-[[Manual Harmonization of Cohorts from dbGaP]](https://github.com/duke-harmonization/manual_harmonization) and [[Manual Harmonization of Cohorts from BioLINCC]](https://github.com/duke-harmonization/manual_harmonization_biolincc): Process for converting dbGaP or BioLINCC phenotype data (Framingham, MESA and ARIC) from raw to final SAS analysis datasets.
+Manual Harmonization of Cohorts [(dbGaP)](https://github.com/duke-harmonization/manual_harmonization) [(BioLINCC)](https://github.com/duke-harmonization/manual_harmonization_biolincc): Process for converting dbGaP phenotype data (Framingham, MESA and ARIC) from raw to final SAS analysis datasets.
 
 [[PMP Website]](https://precision.heart.org/duke-ninds): Stroke Risk Prediction Using a Harmonized Dataset of Framingham, MESA, ARIC, & REGARDS (Pilot).
 
 ## Publications
-1. [[ADEPT]](https://github.com/duke-harmonization/ADEPT) Hickey, J., Henao, R., Wojdyla, D., Pencina, M., Engelhard, M. M. Adaptive Discretization for Event PredicTion (ADEPT). In Proceedings of  *The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)* (2024).
-2. [[PMP]](https://precision.heart.org/duke-ninds) Mallya, P., Stevens, L. M., Zhao, J., Hong, C., Henao, R., Economou-Zavlanos, N., Wojdyla, D. M., Schibler, T., Manchanda, V., Pencina, M. J. and Hall, J. L. Facilitating Harmonization of Variables in Framingham, MESA, ARIC, and REGARDS Studies Through a Metadata Repository. *Circulation: Cardiovascular Quality and Outcomes*. 2023 16(11), p.e009938. 
-3. [[Trans-Balance]](https://github.com/duke-harmonization/Transbalance) Hong, C., Liu, M., Wojdyla, D. M., Hickey, J, Pencina, M., Henao, R., Trans-Balance: Reducing Demographic Disparity for Prediction
-Models in the Presence of Class Imbalance. *Journal of Biomedical Informatics*. 2024 Jan 1;149:104532.
-4. [[RALIF]](https://github.com/duke-harmonization/Active-Learning) Xia M., Henao R. Reliable Active Learning via Influence Functions. *Transactions on Machine Learning Research*. 2023.
-5. [[SGHP]](https://github.com/duke-harmonization/sghp) Isik, Y. A., Davis, C., Chapfuwa, P., Henao, R., Hawkes Process with Flexible Triggering Kernels in Proceedings of the *Machine Learning for Healthcare Conference* (2023).
-6. [[Evaluation]](https://github.com/duke-harmonization/CensoredMAE) Qi, S.-A., Kumar, N., Farrokh, M., Sun, W., Kuan, L.-H., Ranganath, R., Henao, R., Greiner, R., An Effective Meaningful Way to Evaluate Survival Models in Proceedings of *The 40th International Conference on Machine Learning* (2023).
-7. [[Predictive Accuracy]](https://github.com/duke-harmonization/stroke-risk-prediction-models) Hong C., Pencina M.J., Wojdyla D.M., Hall J.L., Judd S.E., Cary M., Engelhard M.M., Berchuck S., Xian Y., D’Agostino R., Howard G., Kissela B., and Henao R. Predictive Accuracy of Stroke Risk Prediction Models Across Black and White Race, Sex, and Age Groups. *JAMA*. 2023 Jan 24;329(4):306-17.
-8. [[Latent ODE]](https://github.com/duke-harmonization/structured_latent_ODEs) Chapfuwa, P., Rose, S., Carin, L., Meeds, E. and Henao, R. Capturing Actionable Dynamics with Structured Latent Ordinary Differential Equations in Proceedings of *The 38th Conference on Uncertainty in Artificial Intelligence* (2022).
-9. [[MCM]](https://github.com/duke-harmonization/dnmc) Engelhard, M. and Henao, R. Disentangling Whether from When in a Neural Mixture Cure Model for Failure Time Data in Proceedings of *The 25th International Conference on Artificial Intelligence and Statistics* (2022).
-10. [[GIL]](https://github.com/duke-harmonization/gradient-importance-learning) Gao, Q., Wang, D., Amason, J. D., Yuan, S., Tao, C., Henao, R., Hadziahmetovic, M., Carin, L. and Pajic, M. Gradient Importance Learning for Incomplete Observations in *The 10th International Conference on Learning Representations* (2022).
-11. [[SC]](https://github.com/duke-harmonization/counterfactual_survival_analysis) Chapfuwa, P., Assaad, S., Zeng, S., Pencina, M., Carin, L. and Henao, R. Enabling Counterfactual Survival Analysis with Balanced Representation in *Proceedings of the ACM Conference on Health, Inference, and Learning* (2021).
-12. [[ECRT]](https://github.com/duke-harmonization/ECRT) Chen, J., Xiu, Z., Goldstein, B., Henao, R., Carin, L. and Tao, C. Supercharging Imbalanced Data Learning With Causal Representation Transfer in *Advances in Neural Information Processing Systems 35* (2021).
-13. [[VIE]](https://github.com/duke-harmonization/VIE) Xiu, Z., Tao, C., Gao, M., Davis, C., Goldstein, B. and Henao, R. Variational Disentanglement for Rare Event Modeling in *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (2021).
+1. Mallya P., Henao R., Hong C., Wojdyla D., Schibler T., Manchanda V., Pencina M., Hall J., Zhao J. Automated Data Harmonization in Clinical Research: Natural Language Processing Approach. *JMIR Formative Research*. 14/06/2025:75608 (in press).
+2. Henao R., Pencina M. Towards improving risk prediction through clustering analysis. *European Journal of Preventive Cardiology*. 2025 Mar 20:zwaf164.
+3. [[ALD]](https://github.com/duke-harmonization/ALD) Sheng D., Henao R. Learning Survival Distributions with the Asymmetric Laplace Distribution. *In Forty-second International Conference on Machine Learning (ICML)*. 2025.
+4. [[xCI]](https://github.com/duke-harmonization/equitable-stroke-risk-prediction) Engelhard M., Wojdyla D., Wang H., Pencina M., Henao R. Exploring trade-offs in equitable stroke risk prediction with parity-constrained and race-free models. *Artificial Intelligence in Medicine*. 2025 Apr 10:103130.
+5. [[SONAR]](https://medinform.jmir.org/2025/1/e54133/authors) Yang D., Zhou D., Cai S., Gan Z., Pencina M., Avillach P., Cai T., Hong C. Robust Automated Harmonization of Heterogeneous Data Through Ensemble Machine Learning: Algorithm Development and Validation Study. *JMIR Med Inform* 2025 Jan 22; 13:e54133.
+6. [[ADEPT]](https://github.com/duke-harmonization/ADEPT) Hickey J., Henao R., Wojdyla D., Pencina M., Engelhard M. Adaptive Discretization for Event PredicTion (ADEPT) in *Proceedings of the International Conference on Artificial Intelligence and Statistics* (2024).
+7. [[TransBalance]](https://github.com/duke-harmonization/Transbalance) Hong C., Liu M., Wojdyla D.M., Hickey J., Pencina M., Henao R. Trans-Balance: Reducing demographic disparity for prediction models in the presence of class imbalance. *Journal of biomedical informatics*. 2024 Jan 1;149:104532.
+8. [[PMP]](https://precision.heart.org/duke-ninds) Mallya, P., Stevens, L.M., Zhao, J., Hong, C., Henao, R., Economou-Zavlanos, N., Wojdyla, D.M., Schibler, T., Manchanda, V., Pencina, M.J. and Hall, J.L. Facilitating harmonization of variables in Framingham, MESA, ARIC, and REGARDS studies through a metadata repository. *Circulation: Cardiovascular Quality and Outcomes*. 2023 16(11), p.e009938.
+9. [[RALIF]](https://github.com/duke-harmonization/Active-Learning) Xia M., Henao R. Reliable active learning via influence functions. *Transactions on Machine Learning Research*. 2023.
+10. [[SGHP]](https://github.com/duke-harmonization/sghp) Isik Y., Chapfuwa P., Davis C., Henao R. Hawkes Process with Flexible Triggering Kernels in *Proceedings of the Machine Learning for Healthcare Conference* (2023).
+11. [[Evaluation]](https://github.com/duke-harmonization/CensoredMAE) Qi S.A., Kumar N., Farrokh M., Sun W., Kuan L.H., Ranganath R., Henao R., Greiner R. An effective meaningful way to evaluate survival models in *Proceedings of the 40th International Conference on Machine Learning*. (2023).
+12. [[Predictive Accuracy]](https://github.com/duke-harmonization/stroke-risk-prediction-models) Hong C., Pencina M.J., Wojdyla D.M., Hall J.L., Judd S.E., Cary M., Engelhard M.M., Berchuck S., Xian Y., D’Agostino R., Howard G., Kissela B., and Henao R. Predictive Accuracy of Stroke Risk Prediction Models Across Black and White Race, Sex, and Age Groups. *JAMA*. 2023 Jan 24;329(4):306-17.
+13. [[Latent ODE]](https://github.com/duke-harmonization/structured_latent_ODEs) Chapfuwa, P., Rose, S., Carin, L., Meeds, E. and Henao, R. Capturing Actionable Dynamics with Structured Latent Ordinary Differential Equations in *Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence* (2022).
+14. [[MCM]](https://github.com/duke-harmonization/dnmc) Engelhard, M. and Henao, R. Disentangling Whether from When in a Neural Mixture Cure Model for Failure Time Data in *Proceedings of The 25th International Conference on Artificial Intelligence and Statistics* (2022).
+15. [[GIL]](https://github.com/duke-harmonization/gradient-importance-learning) Gao, Q., Wang, D., Amason, J. D., Yuan, S., Tao, C., Henao, R., Hadziahmetovic, M., Carin, L. and Pajic, M. Gradient Importance Learning for Incomplete Observations in *Proceedings of the 10th International Conference on Learning Representations* (2022).
+16. [[SC]](https://github.com/duke-harmonization/counterfactual_survival_analysis) Chapfuwa, P., Assaad, S., Zeng, S., Pencina, M., Carin, L. and Henao, R. Enabling Counterfactual Survival Analysis with Balanced Representation in *Proceedings of the ACM Conference on Health, Inference, and Learning* (2021).
+17. [[ECRT]](https://github.com/duke-harmonization/ECRT) Chen, J., Xiu, Z., Goldstein, B., Henao, R., Carin, L. and Tao, C. Supercharging Imbalanced Data Learning With Causal Representation Transfer in *Advances in Neural Information Processing Systems 35* (2021).
+18. [[VIE]](https://github.com/duke-harmonization/VIE) Xiu, Z., Tao, C., Gao, M., Davis, C., Goldstein, B. and Henao, R. Variational Disentanglement for Rare Event Modeling in *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (2021).
 
 ## Support
 
